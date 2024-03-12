@@ -9,9 +9,6 @@ This repository contains the code for a responsive Music Player web interface bu
 * **User Controls:** Offers controls for play/pause, volume adjustment, and seeking within the song.
 * **Clean Code:** Well-structured code for maintainability and readability.
 
-**Project Link:**
-
-**[Live Demo]** file:///Users/lalrinfeli/Desktop/Music%20Website%20Project/index.html
 
 **Getting Started**
 
