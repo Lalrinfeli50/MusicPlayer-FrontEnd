@@ -18,5 +18,5 @@ This repository contains the code for a responsive Music Player web interface bu
 1. **Clone the Repository:**
 
    ```bash
-   git clone [invalid URL removed]
+   git clone file:///Users/lalrinfeli/Desktop/Music%20Website%20Project/index.html
 
