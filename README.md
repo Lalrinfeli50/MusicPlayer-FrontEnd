@@ -4,10 +4,11 @@ This repository contains the code for a responsive Music Player web interface bu
 
 **Key Features:**
 
-* **Responsive Design:** Adapts seamlessly to different screen sizes for optimal user experience across devices.
 * **Local Song Playback:** Supports playing music files stored locally on the user's device.
 * **User Controls:** Offers controls for play/pause, volume adjustment, and seeking within the song.
 * **Clean Code:** Well-structured code for maintainability and readability.
+* **Responsive Design:** Adapts seamlessly to different screen sizes for optimal user experience across devices (yet to be implemented).
+  
 
 
 
